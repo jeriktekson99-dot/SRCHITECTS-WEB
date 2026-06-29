@@ -1,0 +1,8 @@
+{
+  "name": "S.R.chitects V2",
+  "description": "Premium industrial homepage for S.R.chitects Construction Corporation, bridging elite architectural design with uncompromising heavy-duty execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
